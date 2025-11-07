@@ -28,7 +28,7 @@ Turn the grandMA3 onPC Software into a Fullscreen kiosk mode for inbuilt systems
   
 10) Reboot your system and see it boot into the MA Launcher!
 
-# - Auto Logon To An Account -
+## - Auto Logon To An Account -
 
 1) Download the latest AutoLogon script from Microsoft [here](https://learn.microsoft.com/en-us/sysinternals/downloads/autologon)
    > Select the **Run now from Sysinternals Live** and then you can skip extracting the zip file.
