@@ -8,10 +8,10 @@ Turn the grandMA3 onPC Software into a Fullscreen kiosk mode for inbuilt systems
 2) Open Powershell as Administrator
 
 3) cd Into the Microsoft.NET Framework64 folder `cd C:\Windows\Microsoft.NET\Framework64\v4.0.30319`
->  **v4.0.30319 is the virsion number and may have to be edited.**
+   >  **v4.0.30319 is the virsion number and may have to be edited.**
 
 4) Run the installer `.\InstallUtil.exe "C:\Program Files\MALightingTechnology\gma3_**[Your Version]**\bin\ma_shell_launcher_service.exe"`
-> PLEASE replace the **[Your Version]** part with the version of grandMA3 you have insalled, you can check in File Explorer (The name of the folder)
+   > PLEASE replace the **[Your Version]** part with the version of grandMA3 you have insalled, you can check in File Explorer (The name of the folder)
 
 5) Once Completed, open the registry editor - Search for **Regedit** in windows search
 
